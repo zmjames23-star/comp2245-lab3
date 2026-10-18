@@ -125,3 +125,6 @@ newGameButton.addEventListener("click", function () {
 
     buildBoard();
 });
+
+
+        
